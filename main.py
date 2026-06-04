@@ -11,7 +11,7 @@ import socket
 import threading
 
 # Configuration: Update to your server's local or web public IP address
-SERVER_IP = "127.0.0.1" 
+SERVER_IP = "192.168.29.48"
 SERVER_PORT = 55555
 
 class MenuScreen(MDScreen):
